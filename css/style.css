@@ -109,10 +109,10 @@ body{
     -o-transition: all ease 6s;
 }
 .singleItem:hover .sliderIt.item1 img{
-    margin-top: -1614px;
+    margin-top: -64px;
 }
 .singleItem:hover .sliderIt.item2 img{
-    margin-top: -1615px;
+    margin-top: -766px;
 }
 .singleItem:hover .sliderIt.itemFirst img{
     margin-top: -2355px;
