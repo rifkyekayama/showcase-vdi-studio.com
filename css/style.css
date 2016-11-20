@@ -114,6 +114,9 @@ body{
 .singleItem:hover .sliderIt.item2 img{
     margin-top: -766px;
 }
+.singleItem:hover .sliderIt.item2 img{
+    margin-top: 0px;
+}
 .footer{
     width: 100%;
     background: #404040;
@@ -165,5 +168,8 @@ body{
     }
     .singleItem:hover .sliderIt.item2 img{
         margin-top: -260px;
+    }
+    .singleItem:hover .sliderIt.item2 img{
+        margin-top: 0px;
     }
 }
